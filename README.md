@@ -1,6 +1,4 @@
-![Cover](https://i.ibb.co.com/mHVTMYt/1704539311238.jpg)
-
-
+![Cover Photo](https://i.ibb.co/mHVTMYt/1704539311238.jpg)
 
 # 💫 About Me:
 👋 Hi, I'm Taosif, a student passionate about software development.<br>🌱 I’m currently learning full-stack development and working on various projects to enhance my skills.<br>🚀 My vision is to establish my own software firm, building innovative solutions that can make a meaningful impact.<br>💡 Always open to learning, collaboration, and new challenges!
