@@ -13,10 +13,10 @@
 </br>
 
 ## 🚧 What I'm Working On:
-- 🌱 Currently learning full-stack development, focusing on building projects with React, Node.js, and MongoDB.
+- 🌱 Currently learning full-stack development, focusing on building projects with React,Typescript, Next js, Node.js, and MongoDB.
 - 🚀 Developing interactive web applications and exploring advanced JavaScript frameworks like Next.js and Redux.
 - 💡 Working on enhancing user experience by integrating responsive design with Tailwind CSS.
-- 🔧 Experimenting with backend services using Express.js and MongoDB, building.
+- 🔧 Experimenting with backend services using Express.js, mongoose and MongoDB, building.
 - 🏗️ Aspiring to establish my own software firm, working towards creating innovative solutions.
 
 
