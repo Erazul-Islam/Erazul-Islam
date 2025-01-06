@@ -1,4 +1,4 @@
-![Cover Photo](https://i.ibb.co/mHVTMYt/1704539311238.jpg)
+![Cover Photo](https://res.cloudinary.com/djs5y6ey5/image/upload/v1736137799/1704539311238_1_xethma.jpg)
 
 # 💫 About Me:
 👋 Hi, I'm Erazul, a student passionate about software development.<br>🌱 I’m currently learning full-stack development and working on various projects to enhance my skills.<br>🚀 My vision is to establish my own software firm, building innovative solutions that can make a meaningful impact.<br>💡 Always open to learning, collaboration, and new challenges!
